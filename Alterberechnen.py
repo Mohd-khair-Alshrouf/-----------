@@ -61,5 +61,5 @@ def ca():
 b1 = Button(o,text="Calculate",bg="#58D68D",font=2,width=25,height=0,command=ca).place(x=7,y=300)
 
 o.mainloop()
-
+  
 
